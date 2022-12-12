@@ -1,4 +1,3 @@
-https://jakobgoransson95.github.io/Robotfriends/
 
 # Getting Started with Create React App
 
